@@ -367,21 +367,6 @@
     },
     {
       "block_hashes": [
-        "XmMgSRbE4nYTjrxGttox6DUms6xBDp/zkLaga3ZSwnI="
-      ],
-      "block_size": 4096,
-      "path": "js/background.js"
-    },
-    {
-      "block_hashes": [
-        "f6KttrjeEVLBFdpyH1AsUHyNKWcMj4z5YTT0XW8ieDM=",
-        "JUOX/W0J5OJ8Ptq2iv2WyMmwKQ3VGL05ibDM3x40TL0="
-      ],
-      "block_size": 4096,
-      "path": "js/content.js"
-    },
-    {
-      "block_hashes": [
         "ZSwNWvMOzdo9EYZDCiFyXjuWmGRH97m46kBv//W/W7U="
       ],
       "block_size": 4096,
