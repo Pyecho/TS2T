@@ -9,7 +9,7 @@
       "matches": [ "http://*/*", "https://*/*" ],
       "run_at": "document_end"
    } ],
-   "description": "Unix timestamp转换工具",
+   "description": "时间转换工具",
    "icons": {
       "128": "ICO1.png",
       "16": "ICO1.png",
