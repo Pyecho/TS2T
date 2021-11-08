@@ -16,7 +16,6 @@ chrome.tabs.getSelected(function(tab){
             var src=response['data']['qr_filepath'];
             $('#image').html('<img src="'+src+'"/>');
             $('#download').attr('href',src);
-            //$('#mh').attr('href',"https://cli.im/mh?text="+data);
         }
     },'json');
     /*
